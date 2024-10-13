@@ -42,7 +42,7 @@ Pomodoro Task Timer is an interactive web application designed to help users man
 
 1. Clone the repository:
   
-   git clone https://github.com/your-username/pomodoro-timer.git
+   git clone https://github.com/Aleksandr-Barabanov-DE/pomodoro.git
 
 2. Navigate to the Project Directory:
   
